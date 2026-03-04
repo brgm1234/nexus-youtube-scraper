@@ -1,0 +1,9 @@
+{
+  "actorSpecVersion": 1,
+  "name": "nexus-youtube-scraper",
+  "title": "YouTube Scraper",
+  "description": "Crawls YouTube search results, extracts title, views, channel, uploadDate, videoUrl, thumbnail",
+  "version": "1.0.0",
+  "buildTag": "latest",
+  "environmentVariables": [],
+}
